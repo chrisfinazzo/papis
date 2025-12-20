@@ -111,6 +111,17 @@ manually fixing some dependencies and switching off some failing tests so
 that the package could be build with Guix. This can be used for newer versions
 until an official recipe in the main Guix repositories is published.
 
+
+macOS
+-----
+
+To install Papis on macOS using Homebrew, run the following command:
+
+.. code:: sh
+
+    brew install papis
+
+
 From source
 -----------
 
